@@ -1,6 +1,7 @@
 {
   "name": "rohit-shihora",
   "version": "0.1.0",
+  "homepage": "https://ro-hitpreneur.github.io/rohitshihora.com",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.3",
